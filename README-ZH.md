@@ -7,8 +7,8 @@
 ---
 
 ## 🌍 多语言版本 | Multi-Language Versions
-- 🇨🇳 [简体中文解经目录](./zh/)
-- 🇬🇧 [English Commentary Directory](./en/)
+- 🇨🇳 [简体中文解经目录](/README-ZH.md)
+- 🇬🇧 [English Commentary Directory](/README.md)
 
 ---
 
