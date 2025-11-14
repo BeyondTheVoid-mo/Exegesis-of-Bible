@@ -95,7 +95,6 @@
 ---
 
 ## 📁 项目结构示例 | Example Directory Structure
-/
 ├── en/
 │ ├── genesis/
 │ │ ├── genesis-1.md
