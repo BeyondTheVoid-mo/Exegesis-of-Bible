@@ -95,3 +95,32 @@
 ---
 
 ## 📁 项目结构示例 | Example Directory Structure
+/
+├── en/
+│ ├── genesis/
+│ │ ├── genesis-1.md
+│ │ ├── genesis-2.md
+│ │ └── ...
+│ └── exodus/
+│ ├── exodus-1.md
+│ └── ...
+├── zh/
+│ ├── 创世记/
+│ │ ├── 创世记1章.md
+│ │ └── 创世记2章.md
+│ └── 出埃及记/
+│ └── ...
+└── README.md
+└── README-ZH.md
+
+
+---
+
+## 🙏 致谢 | Acknowledgment
+
+> 愿一切荣耀归于神，  
+> 祂的话语永远长存。  
+> *“Your word is a lamp to my feet and a light to my path.” — 诗篇 119:105*
+
+> **Soli Deo Gloria — 荣耀唯归上帝。**
+
