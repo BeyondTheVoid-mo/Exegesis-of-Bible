@@ -7,8 +7,8 @@
 ---
 
 ## 🌍 Languages | 多语言版本
-- 🇬🇧 [English Commentary Directory](./en/)
-- 🇨🇳 [Simplified Chinese Commentary Directory](./zh/)
+- 🇬🇧 [English Commentary Directory](/README.md)
+- 🇨🇳 [Simplified Chinese Commentary Directory](/README-ZH.md)
 
 ---
 
